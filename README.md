@@ -62,7 +62,7 @@ Also using comet.ml for running experiments and hyperparameter tuning.
 ------
 # Other Repositories:
 
-## Visualitions:
+## Visualizations:
 
 * [Matplotlib-Plotly-Dash](https://github.com/yaligarp/visualizations)
 
