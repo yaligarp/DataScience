@@ -78,9 +78,11 @@ Also using comet.ml for running experiments and hyperparameter tuning.
 
 ------
 ## About Me
-A passionate engineering professional with wide range of experience in architecture, data engineering/ingestion, data warehousing, Machine Learning, predictive modelling including on technologies.
+A passionate engineering professional with wide range of experience in architecture, data engineering/ingestion, data warehousing, Machine Learning, predictive modelling including Bigdata and cloud technologies.
+
 ### Profile: 
 * [linkedin](https://www.linkedin.com/in/prakash-y-2327a6a/){:target="_blank"}
+
 ### Publications:
 * [PREDICTING STRENGTH DEVELOPMENT BY CEMENT ADMIXTURE BASED ON WATER CONTENT](https://trid.trb.org/view/504288){:target="_blank"}
 
