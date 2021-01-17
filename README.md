@@ -42,3 +42,11 @@ However SVC model (with 'rbf' kernel) had the best resuts on test data:
 RetailPricePediction:
 
 Given the retail billing data like InvoiceNo,StockCode,Description,Quantity,UnitPrice,CustomerID,Country, the problem is to estimate the retail price on the test data.
+
+InsuranceCostPrelim:
+
+Predict Insurance cost based on past Insurance Claim Data. Initial Exploratory Analysis and Modelling done to arrive at model selections based on experiments with pipelines and gridsearch; 
+Also using comet.ml for running experiments and hyperparameter tuning.
+
+The original Notebook at : https://www.kaggle.com/pyaligar/notebook0325f93125
+
