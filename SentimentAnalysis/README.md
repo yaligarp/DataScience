@@ -184,3 +184,6 @@ It has review details for which to predict whether category would be positive or
 
  ('accuracy', 0.9826923076923076)
  ('F1 Score = ', 0.8591676446691342)    
+
+### Conclusion:
+LogisticRegressionCV, PassiveAgressiveClassifier, MLPClassifier, SGDClassifier - with TfVectorizor gave the highest F1 Score
