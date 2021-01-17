@@ -19,7 +19,7 @@ It has review details for which to predict whether category would be positive or
 
 ## RESULTS:
 
-### RESULTS with TFvectorizer:
+### RESULTS with TFidfvectorizer:
 
 * PassiveAggressiveClassifier:
 
@@ -186,9 +186,13 @@ It has review details for which to predict whether category would be positive or
  ('F1 Score = ', 0.8591676446691342)    
 
 ### Conclusion:
-* LogisticRegressionCV, PassiveAgressiveClassifier, MLPClassifier, SGDClassifier - with TfVectorizor gave the highest F1 Score = 0.9385221674876847
+* LogisticRegressionCV, PassiveAgressiveClassifier, MLPClassifier, SGDClassifier - with TfidfVectorizor gave the highest F1 Score = 0.9385221674876847
 
 * LogisticRegressionCV, RidgeClassifierCV, LogisticRegression - with CountVectorizor gave the highest  F1 Score = 0.9385221674876847
+
+* NN model with Keras and word2vec had F1 Score: 0.9654
+
+
 ### Next Steps:
 * Analyse the results in more detail as to how specific models performed better with different Vectorization
 
