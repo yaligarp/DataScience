@@ -186,4 +186,8 @@ It has review details for which to predict whether category would be positive or
  ('F1 Score = ', 0.8591676446691342)    
 
 ### Conclusion:
-LogisticRegressionCV, PassiveAgressiveClassifier, MLPClassifier, SGDClassifier - with TfVectorizor gave the highest F1 Score
+LogisticRegressionCV, PassiveAgressiveClassifier, MLPClassifier, SGDClassifier - with TfVectorizor gave the highest F1 Score = 0.9385221674876847
+LogisticRegressionCV, RidgeClassifierCV, LogisticRegression - with CountVectorizor gave the highest  F1 Score = 0.9385221674876847
+### Next Steps:
+Analyse the results in more detail as to how specific models performed better with different Vectorization
+
