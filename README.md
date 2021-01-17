@@ -1,4 +1,4 @@
-# DataScience
+# DataScience Portfolio
 Repository containing portfolio of data science projects completed by me, presented in the form of iPython Notebooks.
 Some of the interesting repositories that highlight my interests, exposure and proficiency.
 
@@ -86,5 +86,5 @@ A passionate engineering professional with wide range of experience in architect
 ### Publications:
 * [PREDICTING STRENGTH DEVELOPMENT BY CEMENT ADMIXTURE BASED ON WATER CONTENT](https://trid.trb.org/view/504288){:target="_blank"}
 
-* [A Simplified Method for Assessment of Volume Change Behavior of Rockfill Material," Geotechnical Testing Journal, Vol. 21, No. 2, 1998](https://www.astm.org/DIGITAL_LIBRARY/JOURNALS/GEOTECH/PAGES/GTJ10753J.htm){:target="_blank"}
+* [A Simplified Method for Assessment of Volume Change Behavior of Rockfill Material," Geotechnical Testing Journal, Vol. 21, No. 2](https://www.astm.org/DIGITAL_LIBRARY/JOURNALS/GEOTECH/PAGES/GTJ10753J.htm){:target="_blank"}
 
