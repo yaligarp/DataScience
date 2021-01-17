@@ -1,8 +1,8 @@
-# DataScience Portfolio
+# DataScience
 Repository containing portfolio of data science projects completed by me, presented in the form of iPython Notebooks.
 Some of the interesting repositories that highlight my interests, exposure and proficiency.
 
-### Summary of projects:
+## Portfolio:
 
 * ## [BatchPredictionIOT:](https://github.com/yaligarp/DataScience/tree/main/BatchPredictionIOT) 
 
