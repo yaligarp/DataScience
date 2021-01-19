@@ -92,8 +92,11 @@ A passionate engineering professional with wide range of experience in architect
 * [Python for Data Science and Machine Learning-Udemy](https://www.udemy.com/certificate/UC-9JB3KRLR){:target="_blank"}
 * [AWS SageMaker Hands-on-Training Udemy](https://www.udemy.com/certificate/UC-09bb3aa6-584d-4931-8425-2b2c48028470){:target="_blank"}
 * [AWS Certified Big Data Professional](https://www.certmetrics.com/amazon/public/badge.aspx?i=8&t=c&d=2020-05-25&ci=AWS00996243){:target="_blank"}
+* [AWS Certified Machine Learning Specialty - Udemy](https://www.udemy.com/certificate/UC-FUI1JTZ8/){:target="_blank"}
 * [Understanding Google Charts-Udemy](https://www.udemy.com/certificate/UC-6a2afbf6-caa5-4a4c-aaea-269fbe4c4a9e){:target="_blank"}
 * [Azure BigData Certification - Udemy](https://www.udemy.com/certificate/UC-ec060c19-77d7-415a-ba97-63d9a6e71460){:target="_blank"}
+* [Apache Kafka - Udemy](https://www.udemy.com/certificate/UC-KR0AR60O){:target="_blank"}
+
 
 ### External resources:
 * [H2o-Automl](https://github.com/h2oai/h2o-tutorials/tree/master/h2o-world-2017/automl){:target="_blank"}
