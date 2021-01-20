@@ -97,7 +97,8 @@ A passionate engineering professional with wide range of experience in architect
 * [Azure BigData Certification - Udemy](https://www.udemy.com/certificate/UC-ec060c19-77d7-415a-ba97-63d9a6e71460){:target="_blank"}
 * [Apache Kafka - Udemy](https://www.udemy.com/certificate/UC-KR0AR60O){:target="_blank"}
 
-
 ### External resources:
 * [H2o-Automl](https://github.com/h2oai/h2o-tutorials/tree/master/h2o-world-2017/automl){:target="_blank"}
 * [Practical Deep Learning for Coders-fastai](https://course.fast.ai/){:target="_blank"}
+* [Transition from pandas -> PySpark](https://databricks.com/blog/2020/03/31/10-minutes-from-pandas-to-koalas-on-apache-spark.html#:~:text=A%20Koalas%20Series%20can%20be,way%20as%20a%20pandas%20Series.&text=A%20Koalas%20DataFrame%20has%20an,by%20passing%20a%20pandas%20DataFrame.){:target="_blank"} using [Koalas](https://koalas.readthedocs.io/en/latest/getting_started/install.html){:target="_blank"}
+* [Leverage In-Database ML with MPP Database](https://www.vertica.com/product/database-machine-learning/){:target="_blank"}
