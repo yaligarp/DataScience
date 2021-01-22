@@ -102,3 +102,5 @@ A passionate engineering professional with wide range of experience in architect
 * [Practical Deep Learning for Coders-fastai](https://course.fast.ai/){:target="_blank"}
 * [Transition from pandas -> PySpark](https://databricks.com/blog/2020/03/31/10-minutes-from-pandas-to-koalas-on-apache-spark.html#:~:text=A%20Koalas%20Series%20can%20be,way%20as%20a%20pandas%20Series.&text=A%20Koalas%20DataFrame%20has%20an,by%20passing%20a%20pandas%20DataFrame.){:target="_blank"} using [Koalas](https://koalas.readthedocs.io/en/latest/getting_started/install.html){:target="_blank"}
 * [Leverage In-Database ML with MPP Database](https://www.vertica.com/product/database-machine-learning/){:target="_blank"} and the [Python API](https://www.vertica.com/python)
+* [Microsoft Learn AI Fundamentals Exercises](https://github.com/MicrosoftDocs/ai-fundamentals){:target="_blank"}
+* [Microsoft Azure AI Fundamentals Exercises](https://github.com/MicrosoftLearning/mslearn-ai900){:target="_blank"}
