@@ -104,3 +104,4 @@ A passionate engineering professional with wide range of experience in architect
 * [Leverage In-Database ML with MPP Database](https://www.vertica.com/product/database-machine-learning/){:target="_blank"} and the [Python API](https://www.vertica.com/python)
 * [Microsoft Learn AI Fundamentals Exercises](https://github.com/MicrosoftDocs/ai-fundamentals){:target="_blank"}
 * [Microsoft Azure AI Fundamentals Exercises](https://github.com/MicrosoftLearning/mslearn-ai900){:target="_blank"}
+* [Open Source Platform for ML lifecycle Management](https://mlflow.org/){:target="_blank"} 
