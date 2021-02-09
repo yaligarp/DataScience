@@ -112,3 +112,5 @@ A passionate engineering professional with wide range of experience in architect
 * [PyArrow for Parquet Files](https://mungingdata.com/pyarrow/parquet-metadata-min-max-statistics/){:target="_blank"}
 * [7 Mistakes in Using Apache Kafka](https://blog.softwaremill.com/7-mistakes-when-using-apache-kafka-44358cd9cd6){:target="_blank"}
 * [Event Driven Microservices with Kafka](https://www.confluent.io/resources/event-driven-microservices/?utm_medium=display&utm_source=google&utm_campaign=ch.display_tp.rmkt_tgt.content-remarketing_rgn.india_lng.eng_dv.all_con.event-driven-microservice-whitepaper&utm_term=&creative=edma-snsd-7Days&device=c&placement=www.guru99.com&gclid=EAIaIQobChMInK7WgoHY7gIVyB3VCh1H2AFQEAEYASAAEgJSxPD_BwE){:target="_blank"}
+* [Good Bad Ugly of Spark](https://thenewstack.io/the-good-bad-and-ugly-apache-spark-for-data-science-work/){:target="_blank"}
+* [Spark Best Practices for Datascience](https://www.kdnuggets.com/2020/08/5-spark-best-practices-data-science.html){:target="_blank"}
