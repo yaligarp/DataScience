@@ -116,6 +116,9 @@ A passionate engineering professional with wide range of experience in architect
 * [Good Bad Ugly of Spark](https://thenewstack.io/the-good-bad-and-ugly-apache-spark-for-data-science-work/){:target="_blank"}
 * [Spark Best Practices for Datascience](https://www.kdnuggets.com/2020/08/5-spark-best-practices-data-science.html){:target="_blank"}
 * [PCA with AWS Sagemaker, algorithms and tradeoff](https://aws.amazon.com/blogs/machine-learning/running-principal-component-analysis-in-amazon-sagemaker/){:target="_blank"}
+* [t-Distributed Stochastic Neighbor Embedding](https://www.datacamp.com/community/tutorials/introduction-t-sne){:target="_blank"}
+* [Scalars - when to use what](https://scikit-learn.org/stable/auto_examples/preprocessing/plot_all_scaling.html){:target="_blank"}
+* [Gradient Descent Optimiers](https://ruder.io/optimizing-gradient-descent/){:target="_blank"}
 
 VIDEOS
 * [Statistical Learning with Big Data](https://www.youtube.com/watch?v=0EWJZIC4JxA){:target="_blank"}
