@@ -119,6 +119,7 @@ A passionate engineering professional with wide range of experience in architect
 * [t-Distributed Stochastic Neighbor Embedding](https://www.datacamp.com/community/tutorials/introduction-t-sne){:target="_blank"}
 * [Scalars - when to use what](https://scikit-learn.org/stable/auto_examples/preprocessing/plot_all_scaling.html){:target="_blank"}
 * [Gradient Descent Optimiers](https://ruder.io/optimizing-gradient-descent/){:target="_blank"}
+* [ROC - AUC](https://www.datasciencecentral.com/profiles/blogs/roc-curve-explained-in-one-picture){:target="_blank"}
 
 VIDEOS
 * [Statistical Learning with Big Data](https://www.youtube.com/watch?v=0EWJZIC4JxA){:target="_blank"}
