@@ -135,3 +135,4 @@ VIDEOS
 * [Amazon Sagemaker Deep Dive](https://www.youtube.com/watch?v=uQc8Itd4UTs&list=PLhr1KZpdzukcOr_6j_zmSrvYnLUtgqsZz){:target="_blank"})
 * [Train custom models on Sagemaker](https://www.sicara.ai/blog/amazon-sagemaker-model-training){:target="_blank"}
 * [HyperParameter tuning for Deep Learning in AWS](https://aws.amazon.com/blogs/machine-learning/the-importance-of-hyperparameter-tuning-for-scaling-deep-learning-training-to-multiple-gpus/){:target="_blank"}
+* [SageMaker Studio](https://youtu.be/wiDHCWVrjCU){:target="_blank"}
