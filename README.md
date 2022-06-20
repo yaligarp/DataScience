@@ -99,6 +99,7 @@ A passionate engineering professional with wide range of experience in architect
 
 ### External resources:
 * [H2o-Automl](https://github.com/h2oai/h2o-tutorials/tree/master/h2o-world-2017/automl){:target="_blank"} and [H2o quickstart](https://www.bitbook.io/h2o-ai-quick-start-tutorial-for-just-about-anyone/){:target="_blank"}
+* [Choosing right structure for your Data Team]([https://course.fast.ai/](https://www.montecarlodata.com/blog-how-to-choose-the-right-structure-for-your-data-team/)){:target="_blank"}
 * [Practical Deep Learning for Coders-fastai](https://course.fast.ai/){:target="_blank"}
 * [Feaure Selection For Machine Learning](https://machinelearningmastery.com/feature-selection-with-real-and-categorical-data/){:target="_blank"}
 * [Data Transformation - Standardization vs Normaliation](https://www.kdnuggets.com/2020/04/data-transformation-standardization-normalization.html){:target="_blank"}
